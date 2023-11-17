@@ -8,6 +8,6 @@ import { CommonModule } from '@angular/common';
   templateUrl: './heroes.component.html',
   styleUrl: './heroes.component.css'
 })
-export class HeroesComponent {
+export class HeroesComponent {hero = 'Windstorm';
 
 }
